@@ -1,6 +1,6 @@
-# Data-Analysis-Projects
+# Portfolio of Data Analysis Projects
 
-A list of current Data Analysis related projects I personally done:
+Explore a selection of my endeavors in data analysis:
 
-- Building a Linear Regression Model to Predict Life Expectancy
-- Movie Dataset Correlation Analysis
+- Development of a Linear Regression Model for Life Expectancy Prediction
+- Correlation Analysis of Movie Datasets
